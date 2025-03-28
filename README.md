@@ -1,8 +1,7 @@
 # Sentiment Analysis of Amazon Reviews
+This project performs Sentiment Analysis on Amazon reviews to classify sentiments as Positive, Neutral, or Negative. Using Natural Language Processing (NLP) techniques, we analyze customer feedback to understand user sentiment trends.
 
 ## 📌 Project Overview
-This project performs **Sentiment Analysis** on Amazon reviews to classify sentiments as Positive, Neutral, or Negative. Using Natural Language Processing (NLP) techniques, we analyze customer feedback to understand user sentiment trends.
-
 ## 📂 Dataset
 - The dataset consists of Amazon product reviews.
 - It includes text reviews, ratings, and other metadata.
